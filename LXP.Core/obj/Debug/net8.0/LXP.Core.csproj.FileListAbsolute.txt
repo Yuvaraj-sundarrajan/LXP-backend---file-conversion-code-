@@ -1,0 +1,277 @@
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\Gitlab_Repository\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\Gitlab_Repository\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+C:\Users\asha.dharmaraj\Desktop\Capstone_CourseModule\Mano_lxp1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP\LXP_1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP\LXP_1\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP\test1\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP\test1\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP_Backup\lxpv2before async await\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP_Backend-15-5-Final Review\motta\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP\LXP_Spirint_3\Final_Backend_spirint_2\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\Karnisha\Backend\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\Karnisha\Backend\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP\Sprint_4_BE_1\Backendspirit4pending\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP\LXP_BACKEND\Sprint_4_BackEnd\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\LXP\Sprint_4_BE_2\Sprint_4\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.deps.json
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.runtimeconfig.json
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.dll
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Core.pdb
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.dll
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.dll
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Data.pdb
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\bin\Debug\net8.0\LXP.Common.pdb
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.AssemblyReference.cache
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfoInputs.cache
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.AssemblyInfo.cs
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CoreCompileInputs.cache
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.sourcelink.json
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.csproj.CopyComplete
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.dll
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\refint\LXP.Core.dll
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.pdb
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\LXP.Core.genruntimeconfig.cache
+D:\Yuvaraj\Capstone project\SP5\backend\Sp_4\Sp_4\LXP\LXP.Core\obj\Debug\net8.0\ref\LXP.Core.dll

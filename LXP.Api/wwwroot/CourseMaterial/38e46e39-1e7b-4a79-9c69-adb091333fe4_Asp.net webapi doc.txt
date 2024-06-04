@@ -1,0 +1,154 @@
+
+create an web api project and install Web api packages
+
+Entity framework -6.4
+Entity frameworkcore-8.2
+Entity frameworkcore.Tools 8.2
+mysql.EntityFramework 8.0
+pomelo.EntityFramework -8.0
+My SQl.data
+
+create an separate folder for model and  data folder for appdbcontext include the table details like this example
+
+Models/UserDetails.cs
+using System.ComponentModel.DataAnnotations;
+
+namespace Registerpage.Models
+{
+    public class UserDetails
+    {
+        [Key]
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        [Required]
+        public string? Email { get; set; }
+        [Required]
+        public double? PhoneNumber { get; set; }
+        [Required]
+        public string? Password { get; set; }
+        [Required]
+        public string? ConfirmPassword { get; set; }
+    }
+}
+------------------------------------------------------------------------------------------------------------------
+create an appdbcontext in data folder
+
+Data/AppDbContext.cs
+
+using Microsoft.EntityFrameworkCore;
+
+using Registerpage.Models;
+namespace Registerpage.Data
+{
+    
+        public class AppDbContext:DbContext
+
+        {
+            public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+            {
+
+            }
+
+            public DbSet<UserDetails> APIUser { get; set; }
+        }
+}
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+add connectionstrings for connecting the database
+
+Appsettings.json
+ "ConnectionStrings": {
+   "DefaultConnection": "server=localhost;database=RegisterUser;user=root;password=root;"
+ },
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+add an controller in the project  right click then go add->controller-> select API -> API Controller - empty -> give file name
+Controllers/userdetailscontroller.cs
+
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Registerpage.Data;
+using Microsoft.EntityFrameworkCore;
+using Registerpage.Models;
+
+namespace Registerpage.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class UserDetailsController : ControllerBase
+    {
+        private readonly AppDbContext _context;
+        public UserDetailsController(AppDbContext context)
+        {
+            _context = context;
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<List<UserDetails>>> GetUser()
+        {
+            return Ok(await _context.APIUser.ToListAsync());
+        }
+
+
+
+        [HttpGet("{id}")]
+        public ActionResult<UserDetails> GetUser(int id)
+        {
+            var user = _context.APIUser.Find(id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+            return user;
+        }
+
+
+        [HttpPost]
+
+        public async Task<ActionResult<UserDetails>> Create(UserDetails user)
+        {
+            _context.Add(user);
+
+            await _context.SaveChangesAsync();
+            return Ok(user);
+        }
+
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult> Update(int id, UserDetails user)
+        {
+            if (id != user.Id)
+                return BadRequest();
+            _context.Entry(user).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            return Ok();
+        }
+
+
+        [HttpDelete("{id}")]
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            var product = await _context.APIUser.FindAsync(id);
+            if (product == null)
+            {
+                return NotFound("Incorrect User Id");
+            }
+
+            _context.APIUser.Remove(product);
+            await _context.SaveChangesAsync();
+
+            return Ok();
+        }
+    }
+}
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Then nxt step is migrate the model class file to database 
+open the powershell in the VS and enter the command "dotnet ef migration add "<any name>""
+after build suceeded then enter "dotnet ef database update"
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+then run the project web api works.

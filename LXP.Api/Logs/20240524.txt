@@ -1,0 +1,405 @@
+2024-05-24 09:46:25.059 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 09:46:25.206 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 09:46:25.211 +05:30 [INF] Hosting environment: Development
+2024-05-24 09:46:25.214 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 09:46:38.299 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 09:46:39.727 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1444.6215ms
+2024-05-24 09:46:39.787 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 09:46:39.787 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 09:46:39.808 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 21.6428ms
+2024-05-24 09:46:40.256 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 469.7995ms
+2024-05-24 09:46:40.314 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 09:46:40.935 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 620.0253ms
+2024-05-24 09:58:34.377 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 09:58:34.436 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 59.6374ms
+2024-05-24 09:58:34.461 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 09:58:34.461 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 09:58:34.471 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.9878ms
+2024-05-24 09:58:34.510 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 48.9257ms
+2024-05-24 09:58:34.762 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 09:58:34.814 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 52.3288ms
+2024-05-24 13:59:35.484 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 13:59:35.632 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 13:59:35.636 +05:30 [INF] Hosting environment: Development
+2024-05-24 13:59:35.638 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 13:59:42.456 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 13:59:44.221 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1781.7978ms
+2024-05-24 13:59:48.004 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 13:59:48.023 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 19.6784ms
+2024-05-24 13:59:48.100 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 13:59:48.195 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 94.9305ms
+2024-05-24 13:59:48.261 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 13:59:48.596 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 334.7878ms
+2024-05-24 14:00:53.373 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 14:00:53.398 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 25.245ms
+2024-05-24 14:00:53.421 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 14:00:53.421 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 14:00:53.428 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.3529ms
+2024-05-24 14:00:53.453 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.3225ms
+2024-05-24 14:00:53.722 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 14:00:53.825 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate Operation for action - LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api). See inner exception
+ ---> Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Failed to generate schema for type - LXP.Common.ViewModels.MaterialUpdateViewModel. See inner exception
+ ---> System.TypeLoadException: Could not load type 'Invalid_Token.0x0200006A' from assembly 'LXP.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeMethodInfo.<get_Signature>g__LazyCreateSignature|25_0()
+   at System.Reflection.RuntimePropertyInfo.GetIndexParametersNoCopy()
+   at System.Reflection.RuntimePropertyInfo.GetIndexParameters()
+   at System.Attribute.GetIndexParameterTypes(PropertyInfo element)
+   at System.Attribute.InternalGetCustomAttributes(PropertyInfo element, Type type, Boolean inherit)
+   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+   at System.Reflection.CustomAttributeExtensions.GetCustomAttribute[T](MemberInfo element)
+   at Swashbuckle.AspNetCore.SwaggerGen.JsonSerializerDataContractResolver.<GetDataPropertiesFor>b__6_1(PropertyInfo property)
+   at System.Linq.Enumerable.WhereArrayIterator`1.ToArray()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.OrderedEnumerable`1.GetEnumerator()+MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.JsonSerializerDataContractResolver.GetDataPropertiesFor(Type objectType, Type& extensionDataType)
+   at Swashbuckle.AspNetCore.SwaggerGen.JsonSerializerDataContractResolver.GetDataContractForType(Type type)
+   at Swashbuckle.AspNetCore.SwaggerGen.SchemaGenerator.GetDataContractFor(Type modelType)
+   at Swashbuckle.AspNetCore.SwaggerGen.SchemaGenerator.GenerateSchemaForParameter(Type modelType, SchemaRepository schemaRepository, ParameterInfo parameterInfo, ApiParameterRouteInfo routeInfo)
+   at Swashbuckle.AspNetCore.SwaggerGen.SchemaGenerator.GenerateSchema(Type modelType, SchemaRepository schemaRepository, MemberInfo memberInfo, ParameterInfo parameterInfo, ApiParameterRouteInfo routeInfo)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateSchema(Type type, SchemaRepository schemaRepository, PropertyInfo propertyInfo, ParameterInfo parameterInfo, ApiParameterRouteInfo routeInfo)
+   --- End of inner exception stack trace ---
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateSchema(Type type, SchemaRepository schemaRepository, PropertyInfo propertyInfo, ParameterInfo parameterInfo, ApiParameterRouteInfo routeInfo)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateRequestBodyFromBodyParameter(ApiDescription apiDescription, SchemaRepository schemaRepository, ApiParameterDescription bodyParameter)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateRequestBody(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperation(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   --- End of inner exception stack trace ---
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperation(ApiDescription apiDescription, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-24 14:00:53.973 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 251.4393ms
+2024-05-24 14:01:33.363 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 14:01:33.413 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 14:01:33.415 +05:30 [INF] Hosting environment: Development
+2024-05-24 14:01:33.417 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 14:01:44.023 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 14:01:45.420 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1413.6042ms
+2024-05-24 14:01:45.468 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 14:01:45.477 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.1033ms
+2024-05-24 14:01:45.501 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 14:01:45.565 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 64.0862ms
+2024-05-24 14:01:45.626 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 14:01:45.983 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 356.93ms
+2024-05-24 14:02:38.175 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 14:02:38.220 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 14:02:38.223 +05:30 [INF] Hosting environment: Development
+2024-05-24 14:02:38.225 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 14:02:44.135 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 14:02:45.016 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 895.8491ms
+2024-05-24 14:02:45.084 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 14:02:45.084 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 14:02:45.092 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 8.9941ms
+2024-05-24 14:02:45.183 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 99.088ms
+2024-05-24 14:02:45.240 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 14:02:45.631 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 390.9471ms
+2024-05-24 14:05:56.087 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 14:05:56.140 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 14:05:56.146 +05:30 [INF] Hosting environment: Development
+2024-05-24 14:05:56.150 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 14:06:03.355 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 14:06:04.255 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 916.125ms
+2024-05-24 14:06:04.275 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 14:06:04.288 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.7345ms
+2024-05-24 14:06:04.324 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 14:06:04.406 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 82.9499ms
+2024-05-24 14:06:04.475 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 14:06:04.844 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 368.5573ms
+2024-05-24 14:12:02.566 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 14:12:02.616 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 14:12:02.618 +05:30 [INF] Hosting environment: Development
+2024-05-24 14:12:02.621 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 14:12:08.144 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 14:12:09.118 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 985.6911ms
+2024-05-24 14:12:09.153 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 14:12:09.164 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 11.591ms
+2024-05-24 14:12:09.172 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 14:12:09.260 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 88.8924ms
+2024-05-24 14:12:09.323 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 14:12:09.737 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 414.6762ms
+2024-05-24 15:10:51.447 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 15:10:51.575 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 15:10:51.579 +05:30 [INF] Hosting environment: Development
+2024-05-24 15:10:51.581 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 15:10:57.854 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 15:10:59.132 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1291.5508ms
+2024-05-24 15:10:59.175 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 15:10:59.190 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 15.3573ms
+2024-05-24 15:10:59.193 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 15:10:59.294 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 102.1076ms
+2024-05-24 15:10:59.366 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 15:10:59.726 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 360.0811ms
+2024-05-24 15:26:08.185 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 15:26:08.242 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 15:26:08.249 +05:30 [INF] Hosting environment: Development
+2024-05-24 15:26:08.256 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 15:26:13.607 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 15:26:14.519 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 927.2223ms
+2024-05-24 15:26:14.557 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 15:26:14.565 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 15:26:14.568 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.199ms
+2024-05-24 15:26:14.653 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 87.5955ms
+2024-05-24 15:26:14.720 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 15:26:15.081 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 360.2644ms
+2024-05-24 15:27:35.726 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 15:27:35.785 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 15:27:35.797 +05:30 [INF] Hosting environment: Development
+2024-05-24 15:27:35.798 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 15:27:41.144 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 15:27:42.482 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1343.7904ms
+2024-05-24 15:27:42.550 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 15:27:42.556 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 15:27:42.567 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 16.7149ms
+2024-05-24 15:27:42.662 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 105.4478ms
+2024-05-24 15:27:42.722 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 15:27:43.012 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 290.5284ms
+2024-05-24 15:36:36.766 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryhfBFFil5aLZM8JsJ 170208
+2024-05-24 15:36:36.840 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-24 15:36:36.851 +05:30 [INF] CORS policy execution successful.
+2024-05-24 15:36:36.875 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 15:36:36.966 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 15:36:45.469 +05:30 [INF] Executing NotFoundObjectResult, writing value of type 'System.String'.
+2024-05-24 15:36:45.494 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api) in 8512.033ms
+2024-05-24 15:36:45.499 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 15:36:45.516 +05:30 [INF] HTTP PUT /api/Material responded 404 in 8680.0681 ms
+2024-05-24 15:36:45.560 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/api/Material - 404 null text/plain; charset=utf-8 8794.4839ms
+2024-05-24 16:07:21.328 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 16:07:21.467 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 16:07:21.472 +05:30 [INF] Hosting environment: Development
+2024-05-24 16:07:21.474 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 16:07:27.834 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 16:07:29.164 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1348.1066ms
+2024-05-24 16:07:29.210 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 16:07:29.221 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.1344ms
+2024-05-24 16:07:29.261 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 16:07:29.423 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 161.8154ms
+2024-05-24 16:07:29.480 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 16:07:29.853 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 372.8433ms
+2024-05-24 16:24:19.214 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 16:24:19.271 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 16:24:19.274 +05:30 [INF] Hosting environment: Development
+2024-05-24 16:24:19.276 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 16:24:27.981 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 16:24:29.166 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1200.9413ms
+2024-05-24 16:24:29.217 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 16:24:29.229 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 12.6649ms
+2024-05-24 16:24:29.231 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 16:24:29.333 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 101.9826ms
+2024-05-24 16:24:29.410 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 16:24:29.887 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 477.2803ms
+2024-05-24 16:29:37.288 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryi0oBaMv7I436MMB2 3417299
+2024-05-24 16:29:37.318 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-24 16:29:37.326 +05:30 [INF] CORS policy execution successful.
+2024-05-24 16:29:37.341 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 16:29:37.423 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 16:29:44.328 +05:30 [INF] Executing NotFoundObjectResult, writing value of type 'System.String'.
+2024-05-24 16:29:44.356 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api) in 6910.7346ms
+2024-05-24 16:29:44.365 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 16:29:44.376 +05:30 [INF] HTTP PUT /api/Material responded 404 in 7060.6024 ms
+2024-05-24 16:29:44.431 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/api/Material - 404 null text/plain; charset=utf-8 7142.273ms
+2024-05-24 16:30:53.907 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryip04TX4qUrseOM7v 8641
+2024-05-24 16:30:53.933 +05:30 [INF] CORS policy execution successful.
+2024-05-24 16:30:53.939 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 16:30:53.947 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 16:30:54.187 +05:30 [INF] Executing NotFoundObjectResult, writing value of type 'System.String'.
+2024-05-24 16:30:54.192 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api) in 237.5088ms
+2024-05-24 16:30:54.199 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 16:30:54.209 +05:30 [INF] HTTP PUT /api/Material responded 404 in 277.6463 ms
+2024-05-24 16:30:54.220 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/api/Material - 404 null text/plain; charset=utf-8 312.7888ms
+2024-05-24 16:33:15.747 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 16:33:15.820 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 73.8795ms
+2024-05-24 16:33:15.857 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 16:33:15.857 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 16:33:15.870 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 13.5682ms
+2024-05-24 16:33:15.914 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 57.1911ms
+2024-05-24 16:33:16.192 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 16:33:16.240 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 47.8635ms
+2024-05-24 17:09:04.042 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:09:04.178 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:09:04.183 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:09:04.198 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:09:10.644 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 17:09:11.976 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1345.4104ms
+2024-05-24 17:09:12.041 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 17:09:12.052 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 17:09:12.052 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.7018ms
+2024-05-24 17:09:12.163 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 111.7279ms
+2024-05-24 17:09:12.235 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 17:09:12.643 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 407.2639ms
+2024-05-24 17:10:15.250 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryS4l1nS06sHzm4BAW 35046
+2024-05-24 17:10:15.287 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-24 17:10:15.296 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:10:15.310 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:10:15.381 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:10:26.097 +05:30 [INF] Executing NotFoundObjectResult, writing value of type 'System.String'.
+2024-05-24 17:10:26.117 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api) in 10719.9306ms
+2024-05-24 17:10:26.122 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:10:26.138 +05:30 [INF] HTTP PUT /api/Material responded 404 in 10855.1893 ms
+2024-05-24 17:10:26.177 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/api/Material - 404 null text/plain; charset=utf-8 10927.1534ms
+2024-05-24 17:10:41.646 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:10:41.698 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:10:41.705 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:10:41.713 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:10:50.070 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 17:10:51.127 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1062.5177ms
+2024-05-24 17:10:51.265 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 17:10:51.281 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 17:10:51.283 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 17.8197ms
+2024-05-24 17:10:51.382 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 101.8434ms
+2024-05-24 17:10:51.446 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 17:10:51.911 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 465.1436ms
+2024-05-24 17:11:18.883 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryIRoDCjuFDh5Mnwjv 170207
+2024-05-24 17:11:18.905 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-24 17:11:18.911 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:11:18.923 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:11:18.996 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:11:34.289 +05:30 [INF] Executing NotFoundObjectResult, writing value of type 'System.String'.
+2024-05-24 17:11:34.314 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api) in 15302.0348ms
+2024-05-24 17:11:34.327 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:11:34.342 +05:30 [INF] HTTP PUT /api/Material responded 404 in 15441.1148 ms
+2024-05-24 17:11:34.391 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/api/Material - 404 null text/plain; charset=utf-8 15509.8763ms
+2024-05-24 17:15:53.461 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:15:53.550 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:15:53.555 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:15:53.562 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:16:03.291 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:16:03.345 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:16:03.347 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:16:03.349 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:16:15.778 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 17:16:16.601 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 827.4943ms
+2024-05-24 17:16:16.639 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 17:16:16.644 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 17:16:16.646 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 7.0674ms
+2024-05-24 17:16:16.736 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 92.4421ms
+2024-05-24 17:16:16.796 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 17:16:17.157 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 360.5015ms
+2024-05-24 17:17:13.437 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryNi53uD5HdiBmZTBM 170215
+2024-05-24 17:17:13.464 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-24 17:17:13.471 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:17:13.486 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:17:13.557 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:17:19.994 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api) in 6417.1456ms
+2024-05-24 17:17:20.000 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:17:20.015 +05:30 [ERR] HTTP PUT /api/Material responded 500 in 6553.8176 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at LXP.Core.Services.MaterialServices.UpdateMaterial(MaterialUpdateViewModel material) in D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\Services\MaterialServices.cs:line 159
+   at LXP.Api.Controllers.MaterialController.UpdateMaterial(MaterialUpdateViewModel material) in D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api\Controllers\MaterialController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-05-24 17:17:20.221 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at LXP.Core.Services.MaterialServices.UpdateMaterial(MaterialUpdateViewModel material) in D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Core\Services\MaterialServices.cs:line 159
+   at LXP.Api.Controllers.MaterialController.UpdateMaterial(MaterialUpdateViewModel material) in D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api\Controllers\MaterialController.cs:line 47
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-24 17:17:20.294 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/api/Material - 500 null text/plain; charset=utf-8 6856.9598ms
+2024-05-24 17:24:11.941 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundary2GpMsf1KZEMupACO 170215
+2024-05-24 17:24:11.961 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:24:11.963 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:24:11.966 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:25:45.319 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:25:45.367 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:25:45.372 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:25:45.376 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:25:54.107 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 17:25:54.863 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 767.0421ms
+2024-05-24 17:25:54.958 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 17:25:54.968 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 10.0427ms
+2024-05-24 17:25:54.982 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 17:25:55.071 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 91.1816ms
+2024-05-24 17:25:55.152 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 17:25:55.404 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 251.8872ms
+2024-05-24 17:26:50.291 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:26:50.336 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:26:50.338 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:26:50.339 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:26:58.078 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 17:26:58.850 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 781.6466ms
+2024-05-24 17:26:58.979 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 17:26:58.981 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 17:26:58.996 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 18.1204ms
+2024-05-24 17:26:59.091 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 110.3902ms
+2024-05-24 17:26:59.157 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 17:26:59.436 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 279.3968ms
+2024-05-24 17:27:44.708 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundarylotWgjvfl2ac17Yk 3417301
+2024-05-24 17:27:44.736 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-24 17:27:44.740 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:27:44.750 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:27:44.810 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:27:57.170 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.Entities.Material'.
+2024-05-24 17:27:57.266 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api) in 12447.1565ms
+2024-05-24 17:27:57.270 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:27:57.275 +05:30 [INF] HTTP PUT /api/Material responded 200 in 12543.3992 ms
+2024-05-24 17:27:57.298 +05:30 [INF] Request finished HTTP/1.1 PUT http://localhost:5199/api/Material - 200 null application/json; charset=utf-8 12590.0211ms
+2024-05-24 17:30:53.503 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5199/lxp/course/material - multipart/form-data; boundary=----WebKitFormBoundaryHtnKGkgwB35yB60O 170436
+2024-05-24 17:30:53.515 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:30:53.554 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api)'
+2024-05-24 17:30:53.581 +05:30 [INF] Route matched with {action = "AddMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddMaterial(LXP.Common.ViewModels.MaterialViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:30:53.888 +05:30 [INF] Executing OkObjectResult, writing value of type 'LXP.Common.ViewModels.APIResponse'.
+2024-05-24 17:30:53.902 +05:30 [INF] Executed action LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api) in 310.5944ms
+2024-05-24 17:30:53.906 +05:30 [INF] Executed endpoint 'LXP.Api.Controllers.MaterialController.AddMaterial (LXP.Api)'
+2024-05-24 17:30:53.912 +05:30 [INF] HTTP POST /lxp/course/material responded 200 in 398.9620 ms
+2024-05-24 17:30:53.918 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5199/lxp/course/material - 200 null application/json; charset=utf-8 420.8833ms
+2024-05-24 17:31:36.220 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryAUMwP3sG4sGtbB4u 3417298
+2024-05-24 17:31:36.231 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:31:36.234 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:31:36.237 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:31:57.772 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:31:57.820 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:31:57.823 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:31:57.824 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:32:01.465 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 17:32:01.853 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 388.8735ms
+2024-05-24 17:32:01.909 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 17:32:01.915 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 17:32:01.919 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 9.7666ms
+2024-05-24 17:32:01.962 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.9494ms
+2024-05-24 17:32:02.029 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 17:32:02.176 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 147.0014ms
+2024-05-24 17:32:34.012 +05:30 [INF] Request starting HTTP/1.1 PUT http://localhost:5199/api/Material - multipart/form-data; boundary=----WebKitFormBoundaryo5YHU5Zj2rvs0swQ 6518258
+2024-05-24 17:32:34.041 +05:30 [WRN] Failed to determine the https port for redirect.
+2024-05-24 17:32:34.047 +05:30 [INF] CORS policy execution successful.
+2024-05-24 17:32:34.054 +05:30 [INF] Executing endpoint 'LXP.Api.Controllers.MaterialController.UpdateMaterial (LXP.Api)'
+2024-05-24 17:32:34.097 +05:30 [INF] Route matched with {action = "UpdateMaterial", controller = "Material"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UpdateMaterial(LXP.Common.ViewModels.MaterialUpdateViewModel) on controller LXP.Api.Controllers.MaterialController (LXP.Api).
+2024-05-24 17:51:21.177 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-24 17:51:21.217 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 17:51:21.221 +05:30 [INF] Hosting environment: Development
+2024-05-24 17:51:21.222 +05:30 [INF] Content root path: D:\LXP_Backend-18-05\BACKEND\LXP\LXP.Api
+2024-05-24 17:51:25.940 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-24 17:51:26.711 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 777.1911ms
+2024-05-24 17:51:26.758 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-24 17:51:26.763 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-24 17:51:26.793 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 34.177ms
+2024-05-24 17:51:26.858 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 95.3009ms
+2024-05-24 17:51:26.923 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-24 17:51:27.284 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 361.2305ms
